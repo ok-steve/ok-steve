@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I develop software and play the tuba. I’m continuously trying to increase the nerdiness in my life.
+
+I currently work as a Drupal/front-end web developer for a university in Washington, DC.
+
+I also have a degree in music, which I am fortunate to still use while playing in the local music scene.
+
 <!--
 **sccherry/sccherry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
